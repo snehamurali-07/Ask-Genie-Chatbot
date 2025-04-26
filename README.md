@@ -18,4 +18,3 @@ Feel free to open issues, suggest features, or submit pull requests to improve *
 ---
 
 Made with ❤️ by Sneha Murali 
-Follow me for more projects: [GitHub Profile Link]
